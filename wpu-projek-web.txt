@@ -1,5 +1,4 @@
 wpu resolusi 
-- konsisten untuk membuat konten 2x seminggu
 -membuat platform untuk latihan vidio
 -pembuatan profile setda dan data absensi
 -ui/ux yang sangat bagus
